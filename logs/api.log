@@ -1,0 +1,27 @@
+22-08-2021 02:21:48.830 [Gauge] [INFO] Watching directory: C:\Users\ASUS\IdeaProjects\UITestCaseExercise\specs
+22-08-2021 02:21:48.832 [Gauge] [DEBUG] Found 1 files
+22-08-2021 02:21:48.837 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+22-08-2021 02:21:48.847 [Gauge] [INFO] Initializing specs cache with 1 specs
+22-08-2021 02:21:48.847 [Gauge] [DEBUG] Adding specs from C:\Users\ASUS\IdeaProjects\UITestCaseExercise\specs\example.spec
+22-08-2021 02:21:48.847 [Gauge] [INFO] Initializing steps cache with 1 steps
+22-08-2021 02:21:48.847 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50550
+22-08-2021 03:52:59.546 [Gauge] [INFO] Watching directory: C:\Users\ASUS\IdeaProjects\UITestCaseExercise\specs
+22-08-2021 03:52:59.547 [Gauge] [DEBUG] Found 1 files
+22-08-2021 03:52:59.552 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+22-08-2021 03:52:59.553 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\UITestCaseExercise\specs\example.spec
+22-08-2021 03:52:59.553 [Gauge] [INFO] Initializing specs cache with 1 specs
+22-08-2021 03:52:59.553 [Gauge] [DEBUG] Adding specs from C:\Users\ASUS\IdeaProjects\UITestCaseExercise\specs\example.spec
+22-08-2021 03:52:59.553 [Gauge] [INFO] Initializing steps cache with 1 steps
+22-08-2021 03:52:59.553 [Gauge] [INFO] Gauge daemon initialized and listening on port: 49854
+22-08-2021 03:57:45.718 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepage"}
+22-08-2021 03:57:45.720 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepage"  parameterizedStepValue:"Open the Gauge homepage"}}
+22-08-2021 03:57:46.100 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to Gauge Get Started Page"}
+22-08-2021 03:57:46.100 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to Gauge Get Started Page"  parameterizedStepValue:"Go to Gauge Get Started Page"}}
+22-08-2021 03:57:46.249 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Ensure installation instructions are available"}
+22-08-2021 03:57:46.249 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Ensure installation instructions are available"  parameterizedStepValue:"Ensure installation instructions are available"}}
+22-08-2021 03:59:24.747 [Gauge] [INFO] Spec file removed: C:\Users\ASUS\IdeaProjects\UITestCaseExercise\specs\example.spec
+22-08-2021 15:27:00.913 [Gauge] [ERROR] Unable to add directory C:\Users\ASUS\IdeaProjects\UITestCaseExercise\specs to file watcher: GetFileAttributes: Sistem belirtilen dosyayı bulamıyor.
+22-08-2021 15:27:00.931 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+22-08-2021 15:27:00.936 [Gauge] [INFO] Initializing specs cache with 0 specs
+22-08-2021 15:27:00.936 [Gauge] [INFO] Initializing steps cache with 0 steps
+22-08-2021 15:27:00.936 [Gauge] [INFO] Gauge daemon initialized and listening on port: 60911
