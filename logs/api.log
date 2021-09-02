@@ -25,3 +25,35 @@
 22-08-2021 15:27:00.936 [Gauge] [INFO] Initializing specs cache with 0 specs
 22-08-2021 15:27:00.936 [Gauge] [INFO] Initializing steps cache with 0 steps
 22-08-2021 15:27:00.936 [Gauge] [INFO] Gauge daemon initialized and listening on port: 60911
+23-08-2021 00:09:33.386 [Gauge] [ERROR] Unable to add directory C:\Users\ASUS\IdeaProjects\UITestCaseExercise\specs to file watcher: GetFileAttributes: Sistem belirtilen dosyayı bulamıyor.
+23-08-2021 00:09:33.407 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+23-08-2021 00:09:33.407 [Gauge] [INFO] Initializing specs cache with 0 specs
+23-08-2021 00:09:33.407 [Gauge] [INFO] Initializing steps cache with 0 steps
+23-08-2021 00:09:33.407 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55596
+23-08-2021 18:21:09.792 [Gauge] [ERROR] Unable to add directory C:\Users\ASUS\IdeaProjects\UITestCaseExercise\specs to file watcher: GetFileAttributes: Sistem belirtilen dosyayı bulamıyor.
+23-08-2021 18:21:09.818 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+23-08-2021 18:21:09.818 [Gauge] [INFO] Initializing specs cache with 0 specs
+23-08-2021 18:21:09.818 [Gauge] [INFO] Initializing steps cache with 0 steps
+23-08-2021 18:21:09.818 [Gauge] [INFO] Gauge daemon initialized and listening on port: 58706
+23-08-2021 18:27:18.307 [Gauge] [INFO] Closing connection [127.0.0.1:58707] cause: read tcp 127.0.0.1:58706->127.0.0.1:58707: wsarecv: Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı.
+23-08-2021 18:27:18.642 [Gauge] [CRITICAL] Killing Gauge daemon. Parent process with pid 9124 has terminated.
+29-08-2021 14:07:23.145 [Gauge] [ERROR] Unable to add directory C:\Users\ASUS\IdeaProjects\UITestCaseExercise\specs to file watcher: GetFileAttributes: Sistem belirtilen dosyayı bulamıyor.
+29-08-2021 14:07:23.165 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+29-08-2021 14:07:23.167 [Gauge] [INFO] Initializing specs cache with 0 specs
+29-08-2021 14:07:23.167 [Gauge] [INFO] Initializing steps cache with 0 steps
+29-08-2021 14:07:23.168 [Gauge] [INFO] Gauge daemon initialized and listening on port: 63924
+31-08-2021 08:43:33.727 [Gauge] [ERROR] Unable to add directory C:\Users\ASUS\IdeaProjects\UITestCaseExercise\specs to file watcher: GetFileAttributes: Sistem belirtilen dosyayı bulamıyor.
+31-08-2021 08:43:33.755 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+31-08-2021 08:43:33.756 [Gauge] [INFO] Initializing specs cache with 0 specs
+31-08-2021 08:43:33.756 [Gauge] [INFO] Initializing steps cache with 0 steps
+31-08-2021 08:43:33.756 [Gauge] [INFO] Gauge daemon initialized and listening on port: 57697
+31-08-2021 13:47:23.066 [Gauge] [ERROR] Unable to add directory C:\Users\ASUS\IdeaProjects\UITestCaseExercise\specs to file watcher: GetFileAttributes: Sistem belirtilen dosyayı bulamıyor.
+31-08-2021 13:47:23.077 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+31-08-2021 13:47:23.077 [Gauge] [INFO] Initializing specs cache with 0 specs
+31-08-2021 13:47:23.077 [Gauge] [INFO] Initializing steps cache with 0 steps
+31-08-2021 13:47:23.077 [Gauge] [INFO] Gauge daemon initialized and listening on port: 61425
+02-09-2021 21:53:49.561 [Gauge] [ERROR] Unable to add directory C:\Users\ASUS\IdeaProjects\UITestCaseExercise\specs to file watcher: GetFileAttributes: Sistem belirtilen dosyayı bulamıyor.
+02-09-2021 21:53:49.588 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+02-09-2021 21:53:49.590 [Gauge] [INFO] Initializing specs cache with 0 specs
+02-09-2021 21:53:49.590 [Gauge] [INFO] Initializing steps cache with 0 steps
+02-09-2021 21:53:49.590 [Gauge] [INFO] Gauge daemon initialized and listening on port: 61738

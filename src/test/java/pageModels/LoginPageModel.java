@@ -21,8 +21,8 @@ public class LoginPageModel extends BaseModel {
 
         clickElement(CHOOSE_WOMAN);
         clickElement(LOGIN_BUTTON);
-        sendKeys(EMAIL, "sinemmerveyilmaz.testmail@gmail.com");
-        sendKeys(PASSWORD, "test12345");
+        sendKeys(EMAIL, "xxxxxx@gmail.com");
+        sendKeys(PASSWORD, "xxxxxx");
         clickElement(LOGIN);
     }
 }
