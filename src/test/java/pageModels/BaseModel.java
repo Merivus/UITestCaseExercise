@@ -17,6 +17,7 @@ public class BaseModel {
     WebDriver driver;
     WebDriverWait wait;
     final static Logger logger = Logger.getLogger(BaseModel.class);
+    public static String scrool = "arguments[0].scrollIntoView(true)";
 
     public BaseModel(WebDriver driver){
         this.driver = driver;
@@ -65,8 +66,8 @@ public class BaseModel {
         while(beforeLoading!=afterLoading && beforeLoading > 5){
             element = driver.findElements(by);
             beforeLoading = driver.findElements(by).size();
-            ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);",element.get(element.size()-1));
-            ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);",element.get(element.size()-5));
+            ((JavascriptExecutor) driver).executeScript(scrool,element.get(element.size()-1));
+            ((JavascriptExecutor) driver).executeScript(scrool,element.get(element.size()-5));
             Thread.sleep(1000);
             ((JavascriptExecutor) driver).executeScript("window.scrollTo(0, document.body.scrollHeight)");
             afterLoading = driver.findElements(by).size();
